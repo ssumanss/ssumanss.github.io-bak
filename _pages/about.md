@@ -6,7 +6,7 @@ description: University Department of Mathematics, TMBU, Bhagalpur.
 
 profile:
   align: right
-  image: https://via.placeholder.com/150
+  image: prof_pic.jpg
   address: >
     <p>Assistant Professor</p>
     <p>University Department of Mathematics</p>
