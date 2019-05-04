@@ -2,11 +2,16 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Information about the course I am teaching. For more detail click on course links.
 ---
 
-Currently I am teaching three courses to students of Tilka Manjhi Bhagalpur University, Bhagalpur. 
+#### Current Courses 
 
-- [Linear Algebra](https://sandeepsuman.com/linear-algebra/) in Semester 1
-- [Complex Analysis](https://sandeepsuman.com/complex-analysis/) in Semester 2
-- Analytical Mechanics in Semester 3 
+- [Linear Algebra](https://sandeepsuman.com/linear-algebra/) in Semester I
+- [Complex Analysis](https://sandeepsuman.com/complex-analysis/) in Semester II
+- Analytical Mechanics in Semester III
+
+#### Past Courses
+
+- [Abstract Algebra](https://sandeepsuman.com/abstract-algebra/) in semester I
+- PDE in semester IV
