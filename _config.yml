@@ -6,7 +6,7 @@ email: you@example.com
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
-  copyright-Sandeep Suman
+  
 
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -32,7 +32,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Sandeep Suman
-blog_description: Persional webpage of Sandeep Suman, Assistant Professor of Mathematics, University Department of Mathematics, TMBU, Bhagalpur.
+blog_description: Assistant Professor in University Department of Mathematics, TMBU, Bhagalpur.
 
 # Pagination
 paginate: 4
@@ -62,7 +62,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5

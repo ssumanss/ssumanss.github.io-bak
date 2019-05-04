@@ -5,6 +5,8 @@ title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Currently I am teaching three courses to students of Tilka Manjhi Bhagalpur University, Bhagalpur. 
 
-Organize your courses by years, topics, or universities, however you like!
+- [Linear Algebra](https://sandeepsuman.com/linear-algebra/) in Semester 1
+- [Complex Analysis](https://sandeepsuman.com/complex-analysis/) in Semester 2
+- Analytical Mechanics in Semester 3 
