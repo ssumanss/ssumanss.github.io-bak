@@ -11,6 +11,8 @@ description: Information about the course I am teaching. For more detail click o
 - [Complex Analysis](https://sandeepsuman.com/complex-analysis/) in Semester II
 - Analytical Mechanics in Semester III
 
+***
+
 #### Past Courses
 
 - [Abstract Algebra](https://sandeepsuman.com/abstract-algebra/) in semester I
