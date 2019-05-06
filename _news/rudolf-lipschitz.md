@@ -11,7 +11,7 @@ A student seminar will be held on the life and work of **Rudolf Lipschitz** on h
 
 The skeleton of the seminar is as follows:
 
-- **Life:** Talk about his parents, location and education. 
+- **Life:** Talk about his parents, location and education.
 - **Work:** Work in different field should be worked out by different groups
   - ODE
   - Number Theory
@@ -21,8 +21,7 @@ The skeleton of the seminar is as follows:
   - Differential Forms
   - [Clifford algebra](https://en.wikipedia.org/wiki/Clifford_algebra)
 
-
-#### References:
+#### References
 
 - [MacTutor History](http://www-history.mcs.st-and.ac.uk/Biographies/Lipschitz.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Rudolf_Lipschitz)
