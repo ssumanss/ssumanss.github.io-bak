@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-I am assistant professor at university department of mathematics, [Tilka Manjhi Bhagalpur University, Bhagalpur](https://tmbuniv.ac.in), Bihar.
+I am assistant professor at university department of mathematics, [Tilka Manjhi Bhagalpur University](https://tmbuniv.ac.in),  Bhagalpur, Bihar.
 
 To know about the courses taught by me, please visit the [teaching page](/teaching/).
 
