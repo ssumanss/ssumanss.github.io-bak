@@ -16,4 +16,15 @@ news: true
 social: true
 ---
 
+
+#### Research Interest
+
+- Nonlinear Optimization
+
+#### Hobby
+
+- History of Mathematics
+- Programming
+- Chess
+
 To know about the courses taught by me, please visit the [teaching page](/teaching/).
