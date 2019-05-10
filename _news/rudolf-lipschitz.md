@@ -13,12 +13,12 @@ The skeleton of the seminar is as follows:
 
 - **Life:** Talk about his parents, location and education.
 - **Work:** Work in different field should be worked out by different groups
-  - ODE
+  - [Existance of ODE](https://arxiv.org/pdf/1605.05317.pdf)
   - Number Theory
-  - Classical Mechanics
-  - Bessel Function
-  - Fourier Series
-  - Differential Forms
+  - [Classical Mechanics](file:///home/pgmaths/Downloads/hamiltonjacobiv1.pdf)
+  - [Bessel Function](https://www.britannica.com/science/Bessel-function)
+  - [Fourier Series](http://mathworld.wolfram.com/FourierSeries.html)
+  - [Differential Forms](https://www.math.purdue.edu/~dvb/preprints/diffforms.pdf)
   - [Clifford algebra](https://en.wikipedia.org/wiki/Clifford_algebra)
 
 #### References
