@@ -15,7 +15,7 @@ The skeleton of the seminar is as follows:
 - **Work:** Work in different field should be worked out by different groups
   - [Existance of ODE](https://arxiv.org/pdf/1605.05317.pdf)
   - Number Theory
-  - [Classical Mechanics](file:///home/pgmaths/Downloads/hamiltonjacobiv1.pdf)
+  - [Classical Mechanics](https://www.physicsforums.com/attachments/hamiltonjacobiv1-pdf.8470/)
   - [Bessel Function](https://www.britannica.com/science/Bessel-function)
   - [Fourier Series](http://mathworld.wolfram.com/FourierSeries.html)
   - [Differential Forms](https://www.math.purdue.edu/~dvb/preprints/diffforms.pdf)
