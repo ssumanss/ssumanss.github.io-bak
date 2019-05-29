@@ -8,4 +8,3 @@ description: Fundamentals of Dynamic Programming
 ![alt=image](../../../img/Knapsack%20Problem/bear_sketch@2x.png)
 
 ![alt=image](../../../img/Knapsack%20Problem/bear_sketch@2x%202.png)
-
