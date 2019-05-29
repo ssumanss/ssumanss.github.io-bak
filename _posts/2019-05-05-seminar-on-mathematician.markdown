@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Seminar on Mathematician
-date:   2019-05-04 06:40:16
+date:   2019-05-04 00:00:00
 description: Student seminar on the life and work of mathematician
 ---
 
