@@ -3,6 +3,8 @@ layout: post
 title:  Dynamic Programming
 date:   2019-05-28 00:00:00
 description: Fundamentals of Dynamic Programming
+author: Sandeep Suman
+comments: true
 ---
 
 It’s a general powerful algorithm design technique.  It is a careful exhaustive search. Exhaustive search are usually not good because they are exponential time but if we find a dynamic programming algorithm then it solves the problem in polynomial time.  It is mostly used to solve optimisation problem, i.e., problem required to maximise something or to minimise something. Richard bellman is considered as the founder of this theory and he named it as a dynamic programming. The fundamental idea of dynamic programming is to reduce the problem into a bunch of subproblems such that some subproblems occur many times, so if we solve the subproblem once and use its result at other places then the computational complexity of the problem will be significantly reduced.
