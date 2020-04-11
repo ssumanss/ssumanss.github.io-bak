@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Sandeep</strong> Suman
-description: University Department of Mathematics, TMBU, Bhagalpur.
+description: Assistant Professor, University Department of Mathematics, TMBU, Bhagalpur.
 
 profile:
   align: right
