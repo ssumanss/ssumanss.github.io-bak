@@ -9,8 +9,7 @@ description: Information about the course I am teaching. For more detail click o
 
 - [Linear Algebra](https://sandeepsuman.com/linear-algebra/) in Semester I
 - [Complex Analysis](https://sandeepsuman.com/complex-analysis/) in Semester II
-- [Analytical Mechanics](https://sandeepsuman.com/classical-mechanics/) in Semester III
-- [Operation Research](https://sandeepsuman.com/operation-research/) in Semester IV
+- [Operation Research](https://sandeepsuman.com/operation-research/) in Semester III
 
 ***
 
@@ -29,4 +28,5 @@ description: Information about the course I am teaching. For more detail click o
 ### Past Courses
 
 - [Abstract Algebra](https://sandeepsuman.com/abstract-algebra/) in semester I
+- [Analytical Mechanics](https://sandeepsuman.com/classical-mechanics/) in Semester III
 - PDE in semester IV
