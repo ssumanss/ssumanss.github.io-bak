@@ -29,7 +29,7 @@ social: true
 
 To know about the courses taught by me, please visit the [teaching page](/teaching/).
 
-## Contact Form
+### Contact Form
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xleaozyd" method="post">
   <fieldset id="fs-frm-inputs">
