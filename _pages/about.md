@@ -6,7 +6,7 @@ description: Assistant Professor, University Department of Mathematics, TMBU, Bh
 
 profile:
   align: right
-  image: prof_pic-2-2.jpg
+  image: prof_pic.jpeg
   # address: >
   #   <p>Department of Mathematics</p>
   #   <p>Old PG Campus</p>
