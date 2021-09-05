@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Course
+title: Workshop on Python Programming Language
 date: 2021-09-05 14:20:00-0530
 inline: false
 ---
