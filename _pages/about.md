@@ -33,11 +33,8 @@ To know about the courses taught by me, please visit the [teaching page](/teachi
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xleaozyd" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@gmail.com" required="">
-    <label for="message">Message</label>
+    <input type="text" name="name" id="full-name" placeholder="Name" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="Email Id" required="">
     <textarea rows="5" name="message" id="message" placeholder="Please write your message." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
