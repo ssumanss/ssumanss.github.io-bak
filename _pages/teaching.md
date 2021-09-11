@@ -21,6 +21,7 @@ description: Information about the course I am teaching. For more detail click o
   * [Matrix of Linear Transformation](https://www.youtube.com/watch?v=yaKoLp9GhHg&list=PLZt5lIVW7jQSQ4bY1loXYbdiHsx5eulgI)
 
 ### Programming Related Courses
+- [Ten Days Workshop on Python 3 for Students](https://sandeepsuman.com/python-workshop/)
 - [Faculty Develpment Programme on **Python 3**](https://sandeepsuman.com/fdp-python-2020/)
 
 ***
