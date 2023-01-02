@@ -10,6 +10,7 @@ description: Information about the course I am teaching. For more detail click o
 - [Linear Algebra](https://sandeepsuman.com/linear-algebra/) in Semester I
 - [Complex Analysis](https://sandeepsuman.com/complex-analysis/) in Semester II
 - [Operation Research](https://sandeepsuman.com/operation-research/) in Semester III
+- [Programming in C](https://sandeepsuman.com/programming-in-c/) in Semester IV
 
 ***
 
